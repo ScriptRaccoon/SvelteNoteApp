@@ -9,12 +9,17 @@
         {
             id: 0,
             created: new Date(),
-            content: "Handyvertrag kündigen",
+            content: "Call some friends",
         },
         {
             id: 1,
             created: new Date(),
-            content: "PC neu installieren",
+            content: "Check the fridge",
+        },
+        {
+            id: 2,
+            created: new Date(),
+            content: "Don't use social media more than 5 hours a day!",
         },
     ];
 

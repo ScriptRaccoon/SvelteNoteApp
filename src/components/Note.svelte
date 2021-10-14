@@ -21,5 +21,7 @@
         background-color: rgb(229, 198, 147);
         margin: 10px;
         position: relative;
+        overflow-y: auto;
+        overflow-x: hidden;
     }
 </style>
