@@ -1,0 +1,14 @@
+:root {
+    --primary-color: rgb(65, 152, 179);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
